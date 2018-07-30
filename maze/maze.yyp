@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "000dd240-a526-44d4-8b05-f2ac0aeac4fd",
+            "Value": {
+                "id": "c4b5df83-6948-488c-aa7c-da792e32d0ad",
+                "resourcePath": "objects\\object_cherry\\object_cherry.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "21698ba4-0beb-4fc6-8f8e-cd7e38faf239",
             "Value": {
                 "id": "946bd780-5fa2-49f2-b381-a1b8c29f6270",
@@ -60,6 +68,14 @@
                 "id": "58afb944-ea70-47ff-b27c-07c109f33423",
                 "resourcePath": "objects\\object_bird\\object_bird.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5139fe33-dc10-4225-95bc-14d7a4e22755",
+            "Value": {
+                "id": "a798a456-a3ac-47e8-a898-6643688241be",
+                "resourcePath": "sounds\\sound_main\\sound_main.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -103,6 +119,14 @@
             }
         },
         {
+            "Key": "721c0e59-ea8c-45ee-bcaf-8b4d8d8ba553",
+            "Value": {
+                "id": "a241e0e9-c85e-43f3-95db-c4ea5ba00776",
+                "resourcePath": "sounds\\sound_applause\\sound_applause.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "8243dfa4-a48b-4c57-b900-716ea5436c6c",
             "Value": {
                 "id": "50c93ca6-eb85-480d-af21-0d2c20363dca",
@@ -132,6 +156,14 @@
                 "id": "d06622fc-ac89-4318-b377-40a66325f502",
                 "resourcePath": "views\\8f347435-687d-41d3-b069-d8e3f90e5e09.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "93481a13-122e-48ca-8ecc-0db3cd2b1ae4",
+            "Value": {
+                "id": "2028b1d1-2e23-441d-9b62-52322fb9d435",
+                "resourcePath": "sprites\\sprite2\\sprite2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
