@@ -34,7 +34,15 @@
             "Key": "000dd240-a526-44d4-8b05-f2ac0aeac4fd",
             "Value": {
                 "id": "c4b5df83-6948-488c-aa7c-da792e32d0ad",
-                "resourcePath": "objects\\object_cherry\\object_cherry.yy",
+                "resourcePath": "objects\\object_cherry_maze\\object_cherry_maze.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "026ba424-d47a-40b3-8f27-2d11a9405ebd",
+            "Value": {
+                "id": "7dd33819-045f-4b64-9796-5f0fa529a56a",
+                "resourcePath": "objects\\oblect_boy_maze\\oblect_boy_maze.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -63,10 +71,10 @@
             }
         },
         {
-            "Key": "3fa53758-66cc-496a-beb9-8ebd63681af7",
+            "Key": "4440ecfd-cbcc-4fcf-b134-eeff1490354d",
             "Value": {
-                "id": "58afb944-ea70-47ff-b27c-07c109f33423",
-                "resourcePath": "objects\\object_bird\\object_bird.yy",
+                "id": "c1542104-497e-4406-ad19-5a1c109b25cc",
+                "resourcePath": "objects\\object_monkey_maze\\object_monkey_maze.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -74,16 +82,8 @@
             "Key": "5139fe33-dc10-4225-95bc-14d7a4e22755",
             "Value": {
                 "id": "a798a456-a3ac-47e8-a898-6643688241be",
-                "resourcePath": "sounds\\sound_main\\sound_main.yy",
+                "resourcePath": "sounds\\sound_main_maze\\sound_main_maze.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "5282c86e-8169-4fbf-b072-0fa8dbd1ccc7",
-            "Value": {
-                "id": "02d0acea-8ffe-4e4f-ab4c-fadcb39cd403",
-                "resourcePath": "objects\\object_maze\\object_maze.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -98,15 +98,7 @@
             "Key": "5473c1db-5f4f-48b4-b222-574ea1d7e0db",
             "Value": {
                 "id": "8cbdee8a-e472-45bc-ae6f-4ddee8b3489c",
-                "resourcePath": "sprites\\sprite_bird\\sprite_bird.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "5bca57ba-775f-49e6-8148-4b7cb6c91f57",
-            "Value": {
-                "id": "c19f8fac-1032-4619-9662-4a35a51dcc47",
-                "resourcePath": "sprites\\sprite_maze\\sprite_maze.yy",
+                "resourcePath": "sprites\\sprite_girafe_maze\\sprite_girafe_maze.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -122,8 +114,24 @@
             "Key": "721c0e59-ea8c-45ee-bcaf-8b4d8d8ba553",
             "Value": {
                 "id": "a241e0e9-c85e-43f3-95db-c4ea5ba00776",
-                "resourcePath": "sounds\\sound_applause\\sound_applause.yy",
+                "resourcePath": "sounds\\sound_applause_maze\\sound_applause_maze.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "7db11c68-4993-4931-927d-f0258d542677",
+            "Value": {
+                "id": "7bf9ae0f-8264-4a6a-b676-bf1d7a978fb2",
+                "resourcePath": "sprites\\sprite_boy_maze\\sprite_boy_maze.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7ec81062-afd9-4040-b468-ca83de60316c",
+            "Value": {
+                "id": "440ec6ef-9f9d-48b2-add5-438979e92590",
+                "resourcePath": "objects\\object_banana_maze\\object_banana_maze.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -132,6 +140,14 @@
                 "id": "50c93ca6-eb85-480d-af21-0d2c20363dca",
                 "resourcePath": "views\\8243dfa4-a48b-4c57-b900-716ea5436c6c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "85f54183-2ae8-4d07-9373-3b93b42bac09",
+            "Value": {
+                "id": "6480e75b-33a5-4e24-b33e-cab16f9be65c",
+                "resourcePath": "sprites\\sprite_monkey_maze\\sprite_monkey_maze.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -162,7 +178,7 @@
             "Key": "93481a13-122e-48ca-8ecc-0db3cd2b1ae4",
             "Value": {
                 "id": "2028b1d1-2e23-441d-9b62-52322fb9d435",
-                "resourcePath": "sprites\\sprite2\\sprite2.yy",
+                "resourcePath": "sprites\\sprite_cherry_maze\\sprite_cherry_maze.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -172,6 +188,14 @@
                 "id": "61c77978-e766-4d7e-91ec-1a244152a0c4",
                 "resourcePath": "views\\94031304-a037-4b40-a296-4e8eb04e537c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9eeb092e-fc19-46d6-8e51-666bb9555377",
+            "Value": {
+                "id": "df410faf-0fb5-448a-a7b3-b120f6bbb4fe",
+                "resourcePath": "sprites\\sprite_banana_maze\\sprite_banana_maze.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -202,7 +226,7 @@
             "Key": "c8fb687e-6546-4253-b0a9-3aade6b50797",
             "Value": {
                 "id": "e52545bd-9612-459a-9099-033f3c5e1c53",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\room_main_maze\\room_main_maze.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -231,11 +255,35 @@
             }
         },
         {
+            "Key": "e0890d41-f32a-4d4e-aede-1dbee3126f24",
+            "Value": {
+                "id": "93b4c66d-a781-4644-a137-f7c9b461743d",
+                "resourcePath": "objects\\object_girafe_maze\\object_girafe_maze.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e5cecdd3-ffd2-40af-ab26-46c4e2683207",
             "Value": {
                 "id": "71522e6c-1b6d-4e36-a946-de380238dac5",
                 "resourcePath": "views\\e5cecdd3-ffd2-40af-ab26-46c4e2683207.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f02f870c-3d82-4c77-9fa4-bfb066fbe83a",
+            "Value": {
+                "id": "9c7c20c6-1058-4081-8322-6675c04e6c62",
+                "resourcePath": "objects\\object_maze\\object_maze.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f6567bcb-99bc-47e0-9e55-0be5439a031b",
+            "Value": {
+                "id": "37b71616-f0cc-4999-b4b4-8cf04434be22",
+                "resourcePath": "sprites\\sprite_maze\\sprite_maze.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],

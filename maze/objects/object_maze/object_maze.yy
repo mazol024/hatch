@@ -1,19 +1,10 @@
 {
-    "id": "5282c86e-8169-4fbf-b072-0fa8dbd1ccc7",
+    "id": "f02f870c-3d82-4c77-9fa4-bfb066fbe83a",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "object_maze",
     "eventList": [
-        {
-            "id": "73845be5-43ec-433d-bc02-3711cc59afe5",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "3fa53758-66cc-496a-beb9-8ebd63681af7",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "5282c86e-8169-4fbf-b072-0fa8dbd1ccc7"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "5bca57ba-775f-49e6-8148-4b7cb6c91f57",
+    "spriteId": "f6567bcb-99bc-47e0-9e55-0be5439a031b",
     "visible": true
 }

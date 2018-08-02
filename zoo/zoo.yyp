@@ -16,7 +16,8 @@
                 "Key": "ed6a955d-5826-4f98-a450-10b414266c27",
                 "Value": {
                     "configDeltas": [
-                        "inherited"
+                        "inherited",
+                        "inherited_74e7da39-15d5-4819-b4e7-7f3c12e0ab36"
                     ],
                     "id": "753a5ea0-1012-446d-aa93-65372648845d",
                     "resourcePath": "options\/main\/options_main.yy",
