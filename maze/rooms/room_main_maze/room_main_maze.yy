@@ -2,7 +2,7 @@
 {
     "name": "room_main_maze",
     "id": "c8fb687e-6546-4253-b0a9-3aade6b50797",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,

@@ -47,11 +47,59 @@
             }
         },
         {
+            "Key": "170f9ee5-18f7-4682-8c21-36be90871c2e",
+            "Value": {
+                "id": "580e4286-13e7-45aa-bb9f-6301a8c557c6",
+                "resourcePath": "rooms\\room0_town\\room0_town.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "1aac261d-7974-4f71-ab9e-fe8b0c44e79a",
+            "Value": {
+                "id": "edff2998-2b75-475e-b3e6-0c7b7d87e0c7",
+                "resourcePath": "sprites\\sprite_girl_town\\sprite_girl_town.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "21698ba4-0beb-4fc6-8f8e-cd7e38faf239",
             "Value": {
                 "id": "946bd780-5fa2-49f2-b381-a1b8c29f6270",
                 "resourcePath": "views\\21698ba4-0beb-4fc6-8f8e-cd7e38faf239.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "231b2322-c19b-4e5f-82d9-efbd0bf34cb2",
+            "Value": {
+                "id": "f4c47add-64d6-42e3-beaf-f6450dc309d7",
+                "resourcePath": "sprites\\sprite_sweets_town\\sprite_sweets_town.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "26d44bea-8d33-4bdc-b5c2-6bb3c2e6cc68",
+            "Value": {
+                "id": "889dbc1f-13c1-4951-a663-abf1f19114d1",
+                "resourcePath": "objects\\object_bakery_town\\object_bakery_town.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "28fe1ce7-f2dc-4653-90fa-d05b342f3ad9",
+            "Value": {
+                "id": "cd6b7f1d-765f-40ff-9bea-20e5c2f1abd1",
+                "resourcePath": "objects\\object_daiery_town\\object_daiery_town.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "29f3ecf7-46f6-4725-b8ed-0362e0bae026",
+            "Value": {
+                "id": "35f98b43-161a-495f-81c7-0e1c635f0e5c",
+                "resourcePath": "sprites\\sprite_sweet_town\\sprite_sweet_town.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -63,6 +111,22 @@
             }
         },
         {
+            "Key": "3735208f-d21d-4fa3-8b92-bb3faec48b25",
+            "Value": {
+                "id": "ffcfb539-d1f2-4e18-b945-4d7d26741836",
+                "resourcePath": "objects\\object_game_title_zoo\\object_game_title_zoo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "38896ff4-753a-4a24-8d03-c01ab9ed3281",
+            "Value": {
+                "id": "1e2e778d-bd7e-49c5-8fd1-72318772dab0",
+                "resourcePath": "sounds\\sound_running_zoo\\sound_running_zoo.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "3b951474-b05d-4456-b1b6-981b56e71af7",
             "Value": {
                 "id": "25926451-0fb0-4a32-8137-f9b17332c3ef",
@@ -71,10 +135,58 @@
             }
         },
         {
+            "Key": "3f904eaf-590c-4726-92bb-4355d66788ef",
+            "Value": {
+                "id": "d01ebef7-6627-411c-a637-c9e498a012e7",
+                "resourcePath": "sounds\\sound_final_zoo\\sound_final_zoo.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "440b7f97-1cbd-44b2-a9c3-8fd25e2aaa2f",
+            "Value": {
+                "id": "0c674f26-47af-4e5c-b537-e69b379701e1",
+                "resourcePath": "sprites\\sprite6_zoo\\sprite6_zoo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4440ecfd-cbcc-4fcf-b134-eeff1490354d",
             "Value": {
                 "id": "c1542104-497e-4406-ad19-5a1c109b25cc",
                 "resourcePath": "objects\\object_monkey_maze\\object_monkey_maze.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4a3cfca4-cd52-4be8-9f9a-d7886bf5f09d",
+            "Value": {
+                "id": "5fc95714-5b91-41fb-a36e-82d6e1907d0c",
+                "resourcePath": "sprites\\sparite_asphalt_town\\sparite_asphalt_town.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4b0ec098-f331-4808-a500-4355eb3f57c1",
+            "Value": {
+                "id": "b64f8789-992d-4b3a-9656-46c1728ac1ae",
+                "resourcePath": "sprites\\sprite_butchery_town\\sprite_butchery_town.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4bcce7a7-a508-4fc2-9774-c1d89347e045",
+            "Value": {
+                "id": "c298d1f4-1383-4b65-b84b-2e0a9d28e143",
+                "resourcePath": "sprites\\sprite_town\\sprite_town.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4c9fc5d0-faba-4a76-8547-d43467a3e5ed",
+            "Value": {
+                "id": "d837d24b-1bc2-481b-b1e7-ad3fd3112b6c",
+                "resourcePath": "objects\\object_cheese_town\\object_cheese_town.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -92,6 +204,14 @@
                 "id": "8f4cae85-f162-4fd1-b20c-e71dd652e882",
                 "resourcePath": "views\\53a6fa0d-5c1d-45e6-8f96-10a8a46d02f2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "53e142df-9f7c-4797-bf1d-f5e76f44395b",
+            "Value": {
+                "id": "c2cf5cac-10a1-42fc-a669-7c2e4c1622b9",
+                "resourcePath": "extensions\\extension0\\extension0.yy",
+                "resourceType": "GMExtension"
             }
         },
         {
@@ -116,6 +236,30 @@
                 "id": "a241e0e9-c85e-43f3-95db-c4ea5ba00776",
                 "resourcePath": "sounds\\sound_applause_maze\\sound_applause_maze.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "7691052f-1d1c-456b-badb-c50d7b2ac911",
+            "Value": {
+                "id": "4a323791-0190-4c53-99f2-256b19964640",
+                "resourcePath": "objects\\object_girl_town\\object_girl_town.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7a9fb2e0-28d7-4001-9bdd-f9e0a975e079",
+            "Value": {
+                "id": "5ceec0e9-ec4b-4822-82e6-6bd7e0259965",
+                "resourcePath": "sprites\\sprite8_zoo\\sprite8_zoo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7c2add46-88d7-4f44-8bf2-99bd3a19fc0c",
+            "Value": {
+                "id": "0c2311d7-fa71-4715-9f7a-bccac3a6f1b2",
+                "resourcePath": "objects\\object_bar_town\\object_bar_town.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -159,6 +303,14 @@
             }
         },
         {
+            "Key": "8b9c6693-0158-40ab-9eba-f0795cca8f24",
+            "Value": {
+                "id": "50deaf05-0506-45ea-814c-4a93cad521f1",
+                "resourcePath": "sprites\\sprite_bar_town\\sprite_bar_town.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8dad63b1-4889-47e7-af47-fb4a48f9c712",
             "Value": {
                 "id": "97bd054b-ff69-435c-b4b6-b069c20141e7",
@@ -172,6 +324,14 @@
                 "id": "d06622fc-ac89-4318-b377-40a66325f502",
                 "resourcePath": "views\\8f347435-687d-41d3-b069-d8e3f90e5e09.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8f7c5182-9b10-44e5-8be0-5288d8691daf",
+            "Value": {
+                "id": "c1c35aa4-e9b6-49df-8022-009bd328564f",
+                "resourcePath": "objects\\object_sweets_town\\object_sweets_town.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -191,11 +351,35 @@
             }
         },
         {
+            "Key": "984b0885-4750-405a-85bd-7d1edfee6e40",
+            "Value": {
+                "id": "075d6854-ffd8-4127-aad6-198730422aa6",
+                "resourcePath": "objects\\object_list_town\\object_list_town.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9eeb092e-fc19-46d6-8e51-666bb9555377",
             "Value": {
                 "id": "df410faf-0fb5-448a-a7b3-b120f6bbb4fe",
                 "resourcePath": "sprites\\sprite_banana_maze\\sprite_banana_maze.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9f961577-6b07-4058-bcd4-2254e41b6832",
+            "Value": {
+                "id": "f86fb62b-5368-485e-aba7-fffbd836aa96",
+                "resourcePath": "objects\\object_title_zoo\\object_title_zoo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a663b483-017e-4af0-9737-ebb549e737b8",
+            "Value": {
+                "id": "e3585880-0563-4c74-b365-b53a07065c68",
+                "resourcePath": "rooms\\room1_zoo\\room1_zoo.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -207,6 +391,22 @@
             }
         },
         {
+            "Key": "a9c70c1d-5a9e-49d9-a6da-e38b0b190f5a",
+            "Value": {
+                "id": "90d240c4-b7ec-4db9-aad3-f2ad88f0d27e",
+                "resourcePath": "objects\\object_town\\object_town.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "aaa0f8b0-a6fb-4597-9f40-5bc1b849f70e",
+            "Value": {
+                "id": "0eb3d66e-2743-4de4-b787-f78e80f9df8a",
+                "resourcePath": "objects\\object_milk_town\\object_milk_town.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "aaab6bb3-af6d-4394-8e28-a6ba409f83f9",
             "Value": {
                 "id": "209072cd-e2c7-47ec-ad9a-999b0943b37c",
@@ -215,11 +415,59 @@
             }
         },
         {
+            "Key": "ab9a8498-6726-4fa7-b683-c2e95dac7627",
+            "Value": {
+                "id": "5d172e98-eb9f-4799-ab01-eb88b7219169",
+                "resourcePath": "sprites\\sprite1_milk_town\\sprite1_milk_town.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "affe4827-265e-4640-b5b2-400a82e0e3b1",
+            "Value": {
+                "id": "4c937a1b-552d-47a5-a83f-1b279724261f",
+                "resourcePath": "sprites\\sprite_brik_town\\sprite_brik_town.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b01919d7-d7fe-45ca-8a6b-5fd091b2fce4",
+            "Value": {
+                "id": "5f791b7b-5962-4ee6-af32-a2c22f712fd1",
+                "resourcePath": "objects\\object7_town\\object7_town.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b62bb6c1-45f8-49df-86f1-b4b6d5e9b25b",
+            "Value": {
+                "id": "a5759325-4c74-420a-aad7-b7b66b96915e",
+                "resourcePath": "sprites\\sprite_list_town\\sprite_list_town.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bacf86df-e3a5-40e7-ba62-bd86c810a88a",
             "Value": {
                 "id": "cc0e9bdf-ee2d-4b57-943c-cb1ffce591ca",
                 "resourcePath": "views\\bacf86df-e3a5-40e7-ba62-bd86c810a88a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c31d2dfb-0e97-4d03-87d5-bda0688aa878",
+            "Value": {
+                "id": "52865bbb-17a5-401a-b51c-098010bae23f",
+                "resourcePath": "objects\\object_bread_town\\object_bread_town.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c4129e2b-413a-49da-ae1d-26acafee1b50",
+            "Value": {
+                "id": "26eb9148-5146-4bbc-b84e-2171bc1b50ce",
+                "resourcePath": "sprites\\sprite_bread_town\\sprite_bread_town.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -247,6 +495,14 @@
             }
         },
         {
+            "Key": "ce2cd00e-dbce-458a-a616-b2fbaafdbfe7",
+            "Value": {
+                "id": "2002fb6b-7f43-43c1-a4db-b10000e4fb3e",
+                "resourcePath": "sprites\\sprite_bakery_town\\sprite_bakery_town.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d8c54759-16d2-45b7-978c-409120e5c856",
             "Value": {
                 "id": "b6faa5d7-01ba-43cc-a6a4-2ae876435435",
@@ -263,11 +519,27 @@
             }
         },
         {
+            "Key": "e5994379-7857-4a28-9752-822866b37270",
+            "Value": {
+                "id": "ba418555-c107-4b29-bece-a2164611a80b",
+                "resourcePath": "sounds\\sound0_town\\sound0_town.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "e5cecdd3-ffd2-40af-ab26-46c4e2683207",
             "Value": {
                 "id": "71522e6c-1b6d-4e36-a946-de380238dac5",
                 "resourcePath": "views\\e5cecdd3-ffd2-40af-ab26-46c4e2683207.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e7a94f05-8e77-4a2a-bd4d-cda1de5f938a",
+            "Value": {
+                "id": "6b5c4095-c6c7-493b-a345-131630ba729e",
+                "resourcePath": "sprites\\sprite7_zoo\\sprite7_zoo.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -279,11 +551,35 @@
             }
         },
         {
+            "Key": "f4e92d94-382b-47f8-9dc7-4f501f2208a9",
+            "Value": {
+                "id": "94182d7f-fc04-4645-b627-302be9c98147",
+                "resourcePath": "sounds\\sound_applause_town\\sound_applause_town.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "f610d0bc-29ce-4993-ab77-1d656fa86ea1",
+            "Value": {
+                "id": "186061bf-fdcf-4ca4-a49c-43116f9fd2a4",
+                "resourcePath": "sprites\\sprite_cheese_town\\sprite_cheese_town.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f6567bcb-99bc-47e0-9e55-0be5439a031b",
             "Value": {
                 "id": "37b71616-f0cc-4999-b4b4-8cf04434be22",
                 "resourcePath": "sprites\\sprite_maze\\sprite_maze.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f84bdcfd-fef3-4203-a71f-fb9ba81bba45",
+            "Value": {
+                "id": "95835321-b7e7-473e-8f94-d81948d17a68",
+                "resourcePath": "objects\\object_brik_town\\object_brik_town.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
