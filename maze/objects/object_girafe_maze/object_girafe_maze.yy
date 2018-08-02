@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "object_girafe_maze",
     "eventList": [
-        
+        {
+            "id": "1c22cdf1-e26f-406d-9f2a-543e66977afa",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "026ba424-d47a-40b3-8f27-2d11a9405ebd",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "e0890d41-f32a-4d4e-aede-1dbee3126f24"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "16ef1c76-2594-4ba6-a6d2-81ad85fc2dc7",
+            "Value": {
+                "id": "194e0541-a051-404f-ba37-576f7402ed46",
+                "resourcePath": "objects\\object_game_over_text\\object_game_over_text.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "170f9ee5-18f7-4682-8c21-36be90871c2e",
             "Value": {
                 "id": "580e4286-13e7-45aa-bb9f-6301a8c557c6",
@@ -367,6 +375,14 @@
             }
         },
         {
+            "Key": "98502843-c767-43c1-adb8-ef08f6981494",
+            "Value": {
+                "id": "5ecc6f7f-4c0d-4dd1-9418-f5304c527b46",
+                "resourcePath": "sprites\\sprite_sweets_fall\\sprite_sweets_fall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9eeb092e-fc19-46d6-8e51-666bb9555377",
             "Value": {
                 "id": "df410faf-0fb5-448a-a7b3-b120f6bbb4fe",
@@ -380,6 +396,22 @@
                 "id": "f86fb62b-5368-485e-aba7-fffbd836aa96",
                 "resourcePath": "objects\\object_title_zoo\\object_title_zoo.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a52bbee0-f9cb-44d4-9bd1-6ae0f01d4451",
+            "Value": {
+                "id": "141df38d-b149-4c91-b9d5-7c647a7c2836",
+                "resourcePath": "objects\\object_sweets_fall\\object_sweets_fall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a6104398-ff8c-40c9-82be-8932b23349dd",
+            "Value": {
+                "id": "1d56a729-639a-4c97-8e8d-ab8abc3fd060",
+                "resourcePath": "sprites\\sprite_sweets_ball\\sprite_sweets_ball.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -444,6 +476,14 @@
                 "id": "5f791b7b-5962-4ee6-af32-a2c22f712fd1",
                 "resourcePath": "objects\\object7_town\\object7_town.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b2b52779-91de-4050-a530-633330d649e1",
+            "Value": {
+                "id": "263fbc02-2bbb-4fac-bddc-c6b68f8e3ab0",
+                "resourcePath": "rooms\\room_game_over\\room_game_over.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

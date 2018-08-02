@@ -10,3 +10,4 @@ if (global.basket[2]) == false {
 }
 
 global.basket[2] = true;
+if (global.basket[0] && global.basket[1] && global.basket[2]) room_goto_next();
