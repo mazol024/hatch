@@ -34,7 +34,7 @@
             "Key": "051715d7-b848-40dc-8b6c-6a8b8a260e2a",
             "Value": {
                 "id": "be03987c-825a-4897-9f38-030d5e48aa87",
-                "resourcePath": "sprites\/sprite_pizza_shop\/sprite_pizza_shop.yy",
+                "resourcePath": "sprites\\sprite_pizza_shop_town\\sprite_pizza_shop_town.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -50,7 +50,7 @@
             "Key": "0755e62c-7a63-4067-ba41-c42cfd51b4b6",
             "Value": {
                 "id": "6841b368-679e-4661-b263-2df9542d666f",
-                "resourcePath": "sprites\/sprite_pizza\/sprite_pizza.yy",
+                "resourcePath": "sprites\\sprite_pizza_town\\sprite_pizza_town.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -74,7 +74,7 @@
             "Key": "170f9ee5-18f7-4682-8c21-36be90871c2e",
             "Value": {
                 "id": "95052644-11f4-46df-840f-cfd12cf8b4c4",
-                "resourcePath": "rooms\/room0\/room0.yy",
+                "resourcePath": "rooms\\room0_town\\room0_town.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -82,7 +82,7 @@
             "Key": "1aac261d-7974-4f71-ab9e-fe8b0c44e79a",
             "Value": {
                 "id": "aa0945ff-917d-4d91-9a2c-3ac77123bf64",
-                "resourcePath": "sprites\/sprite_girl\/sprite_girl.yy",
+                "resourcePath": "sprites\\sprite_girl_town\\sprite_girl_town.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -98,7 +98,7 @@
             "Key": "20629d1d-aeae-4591-ad9b-6a6bd4302601",
             "Value": {
                 "id": "5802dec3-8f2a-44e1-8d70-623a25bd527d",
-                "resourcePath": "sprites\\sprite17\\sprite17.yy",
+                "resourcePath": "sprites\\sprite17_town\\sprite17_town.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -106,7 +106,7 @@
             "Key": "231b2322-c19b-4e5f-82d9-efbd0bf34cb2",
             "Value": {
                 "id": "9e2b6fe4-61e5-4d3b-bcc7-44a22069453a",
-                "resourcePath": "sprites\/sprite_sweets\/sprite_sweets.yy",
+                "resourcePath": "sprites\\sprite_sweets_town\\sprite_sweets_town.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -114,7 +114,7 @@
             "Key": "26d44bea-8d33-4bdc-b5c2-6bb3c2e6cc68",
             "Value": {
                 "id": "a718d2a7-07e2-410f-b469-de42fcca7af6",
-                "resourcePath": "objects\/object_bakery\/object_bakery.yy",
+                "resourcePath": "objects\\object_bakery_town\\object_bakery_town.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -122,7 +122,7 @@
             "Key": "28fe1ce7-f2dc-4653-90fa-d05b342f3ad9",
             "Value": {
                 "id": "7de9a10b-c024-4d70-994c-045064be5b90",
-                "resourcePath": "objects\/object_daiery\/object_daiery.yy",
+                "resourcePath": "objects\\object_daiery_town\\object_daiery_town.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -130,7 +130,7 @@
             "Key": "29f3ecf7-46f6-4725-b8ed-0362e0bae026",
             "Value": {
                 "id": "9ca12c26-6ec3-43f7-8ac5-a945d6acd858",
-                "resourcePath": "sprites\/sprite_sweet\/sprite_sweet.yy",
+                "resourcePath": "sprites\\sprite_sweet_town\\sprite_sweet_town.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -154,7 +154,7 @@
             "Key": "4a3cfca4-cd52-4be8-9f9a-d7886bf5f09d",
             "Value": {
                 "id": "94b8bf97-a607-4e8f-a15e-f59ad01f4f8f",
-                "resourcePath": "sprites\/sparite_asphalt\/sparite_asphalt.yy",
+                "resourcePath": "sprites\\sparite_asphalt_town\\sparite_asphalt_town.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -162,7 +162,7 @@
             "Key": "4b0ec098-f331-4808-a500-4355eb3f57c1",
             "Value": {
                 "id": "525864c1-af79-4e32-a05d-4cb62e9042d2",
-                "resourcePath": "sprites\/sprite_butchery\/sprite_butchery.yy",
+                "resourcePath": "sprites\\sprite_butchery_town\\sprite_butchery_town.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -178,7 +178,7 @@
             "Key": "4c9fc5d0-faba-4a76-8547-d43467a3e5ed",
             "Value": {
                 "id": "36e7b27c-c176-4c07-9400-984fe9909776",
-                "resourcePath": "objects\/object_cheese\/object_cheese.yy",
+                "resourcePath": "objects\\object_cheese_town\\object_cheese_town.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -194,7 +194,7 @@
             "Key": "5b82720f-29a8-4ba6-9828-99fc050e3d28",
             "Value": {
                 "id": "0ef6da93-0a4a-40dc-a927-79bcdb217bae",
-                "resourcePath": "sprites\/sprite_broccoly\/sprite_broccoly.yy",
+                "resourcePath": "sprites\\sprite_broccoly_town\\sprite_broccoly_town.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -202,7 +202,7 @@
             "Key": "64fae26b-1132-4dfa-bf80-7058d0d8bad2",
             "Value": {
                 "id": "ef766354-234a-4c05-961c-268628d3ee4f",
-                "resourcePath": "objects\/object_bread\/object_bread.yy",
+                "resourcePath": "objects\\object_bread_town\\object_bread_town.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -226,7 +226,7 @@
             "Key": "7691052f-1d1c-456b-badb-c50d7b2ac911",
             "Value": {
                 "id": "5a37b4af-0cbc-4dab-8d50-42ba55063977",
-                "resourcePath": "objects\/object_girl\/object_girl.yy",
+                "resourcePath": "objects\\object_girl_town\\object_girl_town.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -234,7 +234,7 @@
             "Key": "7c2add46-88d7-4f44-8bf2-99bd3a19fc0c",
             "Value": {
                 "id": "8ac77ecc-818e-4c2d-a400-8215a1c9307b",
-                "resourcePath": "objects\/object_bar\/object_bar.yy",
+                "resourcePath": "objects\\object_bar_town\\object_bar_town.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -258,7 +258,7 @@
             "Key": "8b9c6693-0158-40ab-9eba-f0795cca8f24",
             "Value": {
                 "id": "407000ba-2bb0-4fff-b6b0-1bdab9bb49f6",
-                "resourcePath": "sprites\/sprite_bar\/sprite_bar.yy",
+                "resourcePath": "sprites\\sprite_bar_town\\sprite_bar_town.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -266,7 +266,7 @@
             "Key": "8f7c5182-9b10-44e5-8be0-5288d8691daf",
             "Value": {
                 "id": "a8d32204-ec1d-433c-9dd3-dc7c725022c2",
-                "resourcePath": "objects\/object_sweets\/object_sweets.yy",
+                "resourcePath": "objects\\object_sweets_town\\object_sweets_town.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -274,7 +274,7 @@
             "Key": "984b0885-4750-405a-85bd-7d1edfee6e40",
             "Value": {
                 "id": "caf6d69d-b09b-4855-8c81-31c81de81e3e",
-                "resourcePath": "objects\/object_list\/object_list.yy",
+                "resourcePath": "objects\\object_list_town\\object_list_town.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -290,7 +290,7 @@
             "Key": "a9c70c1d-5a9e-49d9-a6da-e38b0b190f5a",
             "Value": {
                 "id": "1c613a74-21b3-4ce0-8d79-ee61a4453d6a",
-                "resourcePath": "objects\/object_town\/object_town.yy",
+                "resourcePath": "objects\\object_town_town\\object_town_town.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -298,7 +298,7 @@
             "Key": "aaa0f8b0-a6fb-4597-9f40-5bc1b849f70e",
             "Value": {
                 "id": "2ccbf781-943f-436a-8d81-97efa6d887ca",
-                "resourcePath": "objects\/object_milk\/object_milk.yy",
+                "resourcePath": "objects\\object_milk_town\\object_milk_town.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -306,7 +306,7 @@
             "Key": "ab9a8498-6726-4fa7-b683-c2e95dac7627",
             "Value": {
                 "id": "5fdc95d6-a4a8-4da6-8106-c8a9390c3105",
-                "resourcePath": "sprites\/sprite1_milk\/sprite1_milk.yy",
+                "resourcePath": "sprites\\sprite1_milk_town\\sprite1_milk_town.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -314,7 +314,7 @@
             "Key": "affe4827-265e-4640-b5b2-400a82e0e3b1",
             "Value": {
                 "id": "70392b76-9542-4ea4-89b3-86b2466188e6",
-                "resourcePath": "sprites\/sprite_brik\/sprite_brik.yy",
+                "resourcePath": "sprites\\sprite_brik_town\\sprite_brik_town.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -322,7 +322,7 @@
             "Key": "b01919d7-d7fe-45ca-8a6b-5fd091b2fce4",
             "Value": {
                 "id": "fccb49fd-f843-4bd7-a3b7-627a5bc6eb37",
-                "resourcePath": "objects\/object7\/object7.yy",
+                "resourcePath": "objects\\object7_town\\object7_town.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -330,7 +330,7 @@
             "Key": "b62bb6c1-45f8-49df-86f1-b4b6d5e9b25b",
             "Value": {
                 "id": "fbb3c6e6-e621-4fde-97cf-fd170c836322",
-                "resourcePath": "sprites\/sprite_list\/sprite_list.yy",
+                "resourcePath": "sprites\\sprite_list_town\\sprite_list_town.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -338,7 +338,7 @@
             "Key": "bd3b3431-9d0d-4a61-a5d1-a13f190d260f",
             "Value": {
                 "id": "d959fc20-ad49-4fd0-a28b-23d333f6207b",
-                "resourcePath": "sprites\/sprite_bacon\/sprite_bacon.yy",
+                "resourcePath": "sprites\\sprite_bacon_town\\sprite_bacon_town.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -362,7 +362,7 @@
             "Key": "c4129e2b-413a-49da-ae1d-26acafee1b50",
             "Value": {
                 "id": "6ab1a986-6094-4079-a8f2-df6b74487c18",
-                "resourcePath": "sprites\/sprite_bread\/sprite_bread.yy",
+                "resourcePath": "sprites\\sprite_bread_town\\sprite_bread_town.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -378,7 +378,7 @@
             "Key": "ce2cd00e-dbce-458a-a616-b2fbaafdbfe7",
             "Value": {
                 "id": "b9115a66-0ab9-44d5-8dad-e175b5424f97",
-                "resourcePath": "sprites\/sprite_bakery\/sprite_bakery.yy",
+                "resourcePath": "sprites\\sprite_bakery_town\\sprite_bakery_town.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -394,7 +394,7 @@
             "Key": "e5994379-7857-4a28-9752-822866b37270",
             "Value": {
                 "id": "10f8b815-c100-4392-a085-b2328cd6d6f9",
-                "resourcePath": "sounds\/sound0\/sound0.yy",
+                "resourcePath": "sounds\\sound0_town\\sound0_town.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -410,7 +410,7 @@
             "Key": "f4e92d94-382b-47f8-9dc7-4f501f2208a9",
             "Value": {
                 "id": "f9fec7d3-f2d0-4e1a-8395-d65c326891f6",
-                "resourcePath": "sounds\/sound_applause\/sound_applause.yy",
+                "resourcePath": "sounds\\sound_applause_town\\sound_applause_town.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -426,7 +426,7 @@
             "Key": "f610d0bc-29ce-4993-ab77-1d656fa86ea1",
             "Value": {
                 "id": "1ae2a1b1-3efb-4911-a097-73bfd99cbb7d",
-                "resourcePath": "sprites\/sprite_cheese\/sprite_cheese.yy",
+                "resourcePath": "sprites\\sprite_cheese_town\\sprite_cheese_town.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -434,7 +434,7 @@
             "Key": "f84bdcfd-fef3-4203-a71f-fb9ba81bba45",
             "Value": {
                 "id": "26d7ae4f-3492-40b3-b833-5fb0de9b6abf",
-                "resourcePath": "objects\/object_brik\/object_brik.yy",
+                "resourcePath": "objects\\object_brik_town\\object_brik_town.yy",
                 "resourceType": "GMObject"
             }
         },
