@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "3d597aec-44ef-496e-b9fd-4221a32482bf",
+            "Value": {
+                "id": "7d5fc149-7075-4c38-b548-a1351a10bfdf",
+                "resourcePath": "sprites\\spr_chicken\\spr_chicken.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3f904eaf-590c-4726-92bb-4355d66788ef",
             "Value": {
                 "id": "d01ebef7-6627-411c-a637-c9e498a012e7",
@@ -195,6 +203,14 @@
             "Value": {
                 "id": "d837d24b-1bc2-481b-b1e7-ad3fd3112b6c",
                 "resourcePath": "objects\\object_cheese_town\\object_cheese_town.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4f755652-1373-432b-a020-5a42d73d4b33",
+            "Value": {
+                "id": "aa8e9856-26d9-4ef6-959d-ae55b41430fb",
+                "resourcePath": "objects\\obj_chicken_moving\\obj_chicken_moving.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -351,6 +367,14 @@
             }
         },
         {
+            "Key": "90af4af1-c0f1-4b82-97af-1221c3bd4cff",
+            "Value": {
+                "id": "64748a4f-4f3b-487d-b891-844b8a0d076e",
+                "resourcePath": "objects\\obj_tiger_maze\\obj_tiger_maze.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "93481a13-122e-48ca-8ecc-0db3cd2b1ae4",
             "Value": {
                 "id": "2028b1d1-2e23-441d-9b62-52322fb9d435",
@@ -383,6 +407,14 @@
             }
         },
         {
+            "Key": "9939055e-3efa-471a-b463-207fea40d7ca",
+            "Value": {
+                "id": "ce377094-02ec-4993-a14f-b2e650b31261",
+                "resourcePath": "objects\\object_score\\object_score.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9eeb092e-fc19-46d6-8e51-666bb9555377",
             "Value": {
                 "id": "df410faf-0fb5-448a-a7b3-b120f6bbb4fe",
@@ -396,6 +428,14 @@
                 "id": "f86fb62b-5368-485e-aba7-fffbd836aa96",
                 "resourcePath": "objects\\object_title_zoo\\object_title_zoo.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a2a1caa3-ac71-40a8-bcda-09746c4d3479",
+            "Value": {
+                "id": "a66236e3-b66b-4d4f-9fe8-438c663b30a1",
+                "resourcePath": "sprites\\spr_tiger\\spr_tiger.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -479,6 +519,14 @@
             }
         },
         {
+            "Key": "b2a464f2-145d-4be6-9021-9f875147ec21",
+            "Value": {
+                "id": "19cd9c67-7d65-4403-9779-fd28b52be53a",
+                "resourcePath": "objects\\obj_chicken_maze\\obj_chicken_maze.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b2b52779-91de-4050-a530-633330d649e1",
             "Value": {
                 "id": "263fbc02-2bbb-4fac-bddc-c6b68f8e3ab0",
@@ -503,6 +551,14 @@
             }
         },
         {
+            "Key": "bafe300c-0ce9-429b-9dcc-409853a8420f",
+            "Value": {
+                "id": "321ff738-ffb8-49e3-83b8-b1f25affe28e",
+                "resourcePath": "objects\\object_cherry_moving\\object_cherry_moving.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c31d2dfb-0e97-4d03-87d5-bda0688aa878",
             "Value": {
                 "id": "52865bbb-17a5-401a-b51c-098010bae23f",
@@ -524,6 +580,14 @@
                 "id": "e52545bd-9612-459a-9099-033f3c5e1c53",
                 "resourcePath": "rooms\\room_main_maze\\room_main_maze.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "c8fdafff-a7b3-4a03-8d4e-e5cac4773deb",
+            "Value": {
+                "id": "b52f7730-3c9b-40ed-8cc5-cd0faf714581",
+                "resourcePath": "objects\\object_banana_moving\\object_banana_moving.yy",
+                "resourceType": "GMObject"
             }
         },
         {
