@@ -4,6 +4,6 @@ if (object_cherry_maze.visible == true) {
 	object_cherry_maze.visible = false;
 	object_cherry_moving.visible = true;
 }
-object_score.visible = false;
+
 
 

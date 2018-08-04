@@ -5,6 +5,7 @@ if (global.basket[0]) == false {
 	audio_stop_sound(sound0_town);
 	audio_play_sound(sound_applause_town,10,false);
 	audio_play_sound(sound0_town,11,true);
+	score += 50;
 }
 
 global.basket[0] = true;

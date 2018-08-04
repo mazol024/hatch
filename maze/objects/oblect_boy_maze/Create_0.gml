@@ -3,3 +3,4 @@
 audio_stop_all();
 audio_play_sound(sound_running_zoo,10,true);
 score = 0;
+global.hungry = [true,true,true];

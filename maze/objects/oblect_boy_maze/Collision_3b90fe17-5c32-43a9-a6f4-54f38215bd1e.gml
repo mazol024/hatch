@@ -4,4 +4,4 @@ if (object_banana_maze.visible == true) {
 	object_banana_maze.visible = false;
 	object_banana_moving.visible = true;
 }
-object_score.visible = false;
+
