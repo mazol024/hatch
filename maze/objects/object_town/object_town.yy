@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "object_town",
     "eventList": [
-        
+        {
+            "id": "80faf6e7-0323-49e6-b0b6-d660631b0d26",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "a9c70c1d-5a9e-49d9-a6da-e38b0b190f5a"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
