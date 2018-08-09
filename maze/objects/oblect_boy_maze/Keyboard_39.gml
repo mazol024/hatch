@@ -4,3 +4,7 @@ x+=7;
 if (x >= 2048 ){
 	x = 0;}
 	
+	
+if (global.startTimer == false) {
+	global.startTimer = true;
+}

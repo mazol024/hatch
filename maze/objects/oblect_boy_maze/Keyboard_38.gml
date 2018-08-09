@@ -4,3 +4,7 @@ y-=7;
 if (y <= 0 ){
 	y = 2048;}
 	
+	
+if (global.startTimer == false) {
+	global.startTimer = true;
+}
